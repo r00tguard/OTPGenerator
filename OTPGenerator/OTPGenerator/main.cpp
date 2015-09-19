@@ -3,7 +3,7 @@
 int main(int argc, char *argv[])
 {
 	int z;
-	std::cout << "Hello world";
+	std::cout << "Hello world!";
 
 	std::cin >> z;
 
